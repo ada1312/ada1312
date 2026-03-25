@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Ajda 👋
 
-<!--
-**ada1312/ada1312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Originally from Slovenia, but currently based in Denmark.
 
-Here are some ideas to get you started:
+I'm working as Data Engineer but I am averall interested in different software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect:
+[Linkedlin](https://www.linkedin.com/in/ajda-kerlatec/)
+
+
+
+## 📊 GitHub Stats
+
+![ada1312's GitHub stats](https://github-readme-stats.vercel.app/api?username=ada1312&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ada1312&layout=compact&theme=tokyonight&hide_border=true)
+
