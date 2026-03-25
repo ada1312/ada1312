@@ -1,7 +1,7 @@
 # Hi there, I'm Ajda 👋
 
 🇸🇮 Originally from Slovenia  
-🇩🇰 Currently based in Denmark  
+🇩🇰 Currently based in Denmark working for Vipps MobilePay
 
 💻 Data Engineer passionate about building **automated solutions** — from data pipelines and bots to AI-driven checks and workflow optimization.
 
