@@ -32,6 +32,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+**Development & AI Tools**  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 **Cloud & Platforms**  
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -42,5 +48,5 @@
 
 - ⚡ **End-to-End Data Pipelines:** Reliable, scalable ETL/ELT architectures using dbt, Databricks, and cloud platforms
 - 🤖 **Developer & Workflow Automation:** Custom bots, automated CI/CD checks, and GitHub Actions to eliminate manual toil
-- 🧠 **AI & Quality Engineering:** Automated data validation, anomaly detection, and smart pipeline monitoring
+- 🧠 **AI & Quality Engineering:** Automated data validation, anomaly detection, and smart pipeline monitoring using LLM workflows
 - 🛠️ **Infrastructure as Code:** Self-serve data platforms provisioned and versioned with Terraform & Docker
