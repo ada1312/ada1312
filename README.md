@@ -1,9 +1,9 @@
 # Hi there, I'm Ajda 👋
 
 🇸🇮 Originally from Slovenia  
-🇩🇰 Currently based in Denmark working for Vipps MobilePay
+🇩🇰 Currently based in Aarhus, Denmark working for Vipps MobilePay
 
-💻 Data Engineer passionate about building **automated solutions** — from data pipelines and bots to AI-driven checks and workflow optimization.
+💻 Data Engineer passionate about data and building **automated solutions** — from data pipelines, CI and bots to AI-driven checks and workflow optimization.
 
 ---
 
@@ -19,11 +19,18 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Data & Infrastructure**  
 ![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+**DevOps, Containerization & Version Control**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Cloud & Platforms**  
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -33,7 +40,7 @@
 
 ## 🚀 What I Enjoy Building
 
-- ⚙️ Automated data pipelines  
-- 🤖 Bots and workflow automation tools  
-- 🧠 AI-powered data validation & checks  
-- 📊 Scalable analytics solutions  
+- ⚡ **End-to-End Data Pipelines:** Reliable, scalable ETL/ELT architectures using dbt, Databricks, and cloud platforms
+- 🤖 **Developer & Workflow Automation:** Custom bots, automated CI/CD checks, and GitHub Actions to eliminate manual toil
+- 🧠 **AI & Quality Engineering:** Automated data validation, anomaly detection, and smart pipeline monitoring
+- 🛠️ **Infrastructure as Code:** Self-serve data platforms provisioned and versioned with Terraform & Docker
